@@ -42,8 +42,8 @@ const Details = () => {
 
           <div className="row">
             <div className="col-sm-8">              
-                <div class="card mt-5 mb-3 p-4">
-                  <div class="d-flex flex-row justify-content-between align-items-center">
+                <div className="card mt-5 mb-3 p-4">
+                  <div className="d-flex flex-row justify-content-between align-items-center">
                     <div className="rating">
                       <BsStarFill />
                       <BsStarFill />
@@ -51,10 +51,10 @@ const Details = () => {
                       <BsStarHalf/>
                       <BsStar />
                     </div>
-                      <small class="text-muted">2 Days Ago</small>
+                      <small className="text-muted">2 Days Ago</small>
                   </div>
-                  <h5 class="mt-3">Figma Design Tool</h5>
-                  <p class="text-muted">
+                  <h5 className="mt-3">Figma Design Tool</h5>
+                  <p className="text-muted">
                     Our elite teams build apps, responsive websites, bots any digital product that interacts with users for the world's leading companies.
                   </p>                 
               </div>
