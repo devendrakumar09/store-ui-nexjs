@@ -25,7 +25,7 @@ const Details = () => {
           </div>
 
           <div className="col-md-4">
-            <p className="p-blue"> <span className="fas fa-circle pe-2"></span>Pending </p>
+            <p className="p-blue"> <span className="fas fa-circle pe-2"></span>Current Order </p>
             <p className="fw-bold mb-3"><span className="fas fa-dollar-sign pe-1"></span>1254
               <span className="textmuted">.50</span> </p>
             {/* <p className="p-org"><span className="fas fa-circle pe-2"></span>On drafts</p>
