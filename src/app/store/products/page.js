@@ -1,6 +1,6 @@
 import React from "react";
-import AllProducts from "../../ui/dashboard/products/Products";
-import styles from '../../ui/dashboard/products/products.module.css'
+import AllProducts from "../../ui/store/products/Products";
+import styles from '../../ui/store/products/products.module.css'
 import { BsNewspaper, BsTags } from "react-icons/bs";
 import Link from "next/link";
 const Products = () => {

@@ -1,7 +1,7 @@
 import React from 'react'
-import OffersUi from '../../ui/dashboard/offers/Offers'
+import OffersUi from '../../ui/store/offers/Offers'
 import Link from 'next/link'
-import AddNewOfferUI from '@/app/ui/dashboard/offers/add/Add'
+import AddNewOfferUI from '@/app/ui/store/offers/add/Add'
 
 const Offers = () => {
   return (

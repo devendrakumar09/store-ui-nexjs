@@ -1,7 +1,7 @@
 import React from 'react'
-import DetailsUI from '@/app/ui/dashboard/orders/details/Details'
-import InvoiceUI from '@/app/ui/dashboard/orders/invoice/Invoice'
-import OrderProductUI from '@/app/ui/dashboard/orders/details/orderproduct/OrderProduct'
+import DetailsUI from '@/app/ui/store/orders/details/Details'
+import InvoiceUI from '@/app/ui/store/orders/invoice/Invoice'
+import OrderProductUI from '@/app/ui/store/orders/details/orderproduct/OrderProduct'
 
 
 const Details = () => {

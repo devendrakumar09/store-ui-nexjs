@@ -1,12 +1,12 @@
 import React from 'react'
-import Navbar from '../ui/dashboard/navbar/navbar'
-import Sidebar from '../ui/dashboard/sidebar/sidebar'
-import styles from '../ui/dashboard/dashboard.module.css'
+import Navbar from '../ui/store/navbar/navbar'
+import Sidebar from '../ui/store/sidebar/sidebar'
+import styles from '../ui/store/store.module.css'
 import '../ui/globals.css'
 
 function Layout({ children }) {
   return (
-    <div className=''>
+    <div className='main'>
       <Navbar />
       <div className="container-fluid">
         <div className="row">

@@ -1,6 +1,6 @@
 import React from 'react'
-import OrdersUI from '@/app/ui/dashboard/orders/Orders'
-import CardUI from '@/app/ui/dashboard/orders/completeOrder /Card'
+import OrdersUI from '@/app/ui/store/orders/Orders'
+import CardUI from '@/app/ui/store/orders/completeOrder /Card'
 const Orders = () => {
   return (
     <>

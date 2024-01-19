@@ -1,5 +1,5 @@
 import React from 'react'
-import ProductDetails from '@/app/ui/dashboard/products/Details/Details'
+import ProductDetails from '@/app/ui/store/products/Details/Details'
 const Details = () => {
   return (
     <>
